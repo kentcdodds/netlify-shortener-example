@@ -1,6 +1,7 @@
 {
   "name": "netlify-shortener-example",
   "version": "1.0.0",
+  "baseUrl": "https://shortener-demo.netlify.com",
   "description": "",
   "main": "index.js",
   "scripts": {
