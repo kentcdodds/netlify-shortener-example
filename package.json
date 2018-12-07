@@ -1,0 +1,23 @@
+{
+  "name": "netlify-shortener-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "shorten": "netlify-shortener"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kentcdodds/netlify-shortener-example.git"
+  },
+  "keywords": [],
+  "author": "Kent C. Dodds <kent@doddsfamily.us> (http://kentcdodds.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kentcdodds/netlify-shortener-example/issues"
+  },
+  "homepage": "https://github.com/kentcdodds/netlify-shortener-example#readme",
+  "devDependencies": {
+    "netlify-shortener": "^1.0.1"
+  }
+}
